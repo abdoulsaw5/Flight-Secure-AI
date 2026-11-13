@@ -9,7 +9,7 @@
 Our project focuses on developing an Agentic AI assistant that helps users find affordable flights while checking whether booking websites are safe and trustworthy. Many travelers focus on finding the cheapest flights without considering the cybersecurity risks associated with certain booking websites. Some websites may be fraudulent, have poor security practices, or have experienced data breaches. Our goal is to create a prototype that compares flight prices and website security information to help users make safer booking decisions.
 
 We will develop two versions of the AI assistant to compare their performance.
-
+Group members: Abdoul Sawadogo, Boris, Sadeq, Ahmed
 ### AI 1: Price-Based Assistant
 
 - Searches for the cheapest available flights.
