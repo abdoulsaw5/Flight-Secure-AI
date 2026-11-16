@@ -13,8 +13,8 @@ We will develop two versions of the AI assistant to compare their performance.
 ### Group members
 - Abdoul Sawadogo
 - Boris
-- Sadeq
-- Ahmed
+- Sadeq alhanshali
+- Ahmed 
 ### AI 1: Price-Based Assistant
 
 - Searches for the cheapest available flights.
