@@ -14,7 +14,7 @@ We will develop two versions of the AI assistant to compare their performance.
 - Abdoul Sawadogo
 - Boris
 - Sadeq alhanshali
-- Ahmed 
+- Ahmed Noushad
 ### AI 1: Price-Based Assistant
 
 - Searches for the cheapest available flights.
